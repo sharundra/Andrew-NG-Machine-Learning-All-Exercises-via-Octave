@@ -1,0 +1,1 @@
+This repository contains all the exercises of Andrew NG's course of Machine Learning.
